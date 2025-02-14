@@ -1,0 +1,22 @@
+
+header{
+    background-color: #a13976f1;
+    background-size: 150% 150%;
+    height: 80px;
+    text-align: center;
+    font-size: 30px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'bubblegum Sans';
+    border: 3px groove #97466c;
+    background-color: #8b4068;
+    font-size: 30px;
+}
+
+body{
+    background-color: #f7c3e7;
+    /* background-image: url('ValAssets/MultiHearts.png'); */
+}
